@@ -34,7 +34,7 @@ A small “Vampire Survivors”-style action game built in Godot 4. The plan is 
 
 \### 1) Godot \& GDScript
 
-\- \[ ] Install Godot 4.x and pin a project version in this README
+\- \[X] Install Godot 4.x and pin a project version in this README
 
 \- \[ ] Understand scenes, nodes, and instancing (Player, Enemy, Projectile)
 
@@ -114,11 +114,11 @@ A small “Vampire Survivors”-style action game built in Godot 4. The plan is 
 
 \*\*M0 — Repo \& Boilerplate\*\*
 
-\- \[x] Initialize repo and .gitignore
+\- \[X] Initialize repo and .gitignore
 
-\- \[ ] Add `project.godot` and a minimal main scene
+\- \[X] Add `project.godot` and a minimal main scene
 
-\- \[ ] Document Godot version (4.x.y)
+\- \[X] Document Godot version (4.5)
 
 
 
@@ -210,13 +210,13 @@ A small “Vampire Survivors”-style action game built in Godot 4. The plan is 
 
 
 
-\- \*\*Engine\*\*: Godot 4.x (GDScript)
+\- \*\*Engine\*\*: Godot 4.5 (GDScript)
 
-\- \*\*Art\*\*: Pixel art (Aseprite or similar)
+\- \*\*Art\*\*: Pixel art (Aseprite or Blender)
 
 \- \*\*Audio\*\*: Free SFX packs or self-made; OGG preferred
 
-\- \*\*Target\*\*: Windows (initial), possibly Web export
+\- \*\*Target\*\*: Windows (initial), possibly Web export, eventually get it to work on Linux too
 
 
 
