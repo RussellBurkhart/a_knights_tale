@@ -1,0 +1,19 @@
+# Godot-specific ignores
+.import/
+.export/
+.godot/
+mono_crash.*
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Logs
+*.log
