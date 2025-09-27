@@ -17,3 +17,7 @@ scale = Vector2(0.75, 0.75)
 visible = false
 position = Vector2(0, -41)
 shape = SubResource("RectangleShape2D_g2els")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position_smoothing_enabled = true
+position_smoothing_speed = 8.0
