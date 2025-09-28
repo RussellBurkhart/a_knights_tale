@@ -124,11 +124,11 @@ A small “Vampire Survivors”-style action game built in Godot 4. The plan is 
 
 \*\*M1 — Core Movement \& Camera\*\*
 
-\- \[ ] Player movement + dash
+\- \[X] Player movement + dash
 
-\- \[ ] Basic camera (limits, smoothing)
+\- \[X] Basic camera (limits, smoothing)
 
-\- \[ ] Collisions with world
+\- \[X] Collisions with world
 
 
 
